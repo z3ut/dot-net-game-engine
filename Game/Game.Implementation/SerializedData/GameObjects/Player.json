@@ -1,0 +1,10 @@
+﻿{
+  "width": 10,
+  "height": 10,
+  "speed": 10,
+
+  "displayCharLeft": "<",
+  "displayCharTop": "∧",
+  "displayCharRight": ">",
+  "displayCharBot": "∨"
+}

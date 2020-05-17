@@ -1,0 +1,14 @@
+﻿{
+  "updatesTillDestroyed": 10,
+  "playerAggroDistance": 120,
+  "approachingDistance": 100,
+  "playerLoseDistance": 200,
+  "updatesForReload": 10,
+
+  "width": 10,
+  "height": 10,
+  "speed":  3,
+
+  "displayCharNormalState": "e",
+  "displayCharDestructionState": "X"
+}
